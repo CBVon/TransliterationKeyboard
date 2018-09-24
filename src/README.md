@@ -1,4 +1,5 @@
-#Transliteration keyboard
+# Transliteration keyboard
+## src
 
 hindis.txt: 召回集合的hindis(9999_lines)</br>
 latins.txt: Google翻译hindis的结果</br>
@@ -17,6 +18,5 @@ predict_latin2hindi.py:</br>
 
 /word_sim_src：</br>
 整串编辑距离近似度, 召回, 几乎100%</br>
-
 /pkl: 各种预处理的映射文件</br>
 /ret: 根据时间戳命名记录结果, 用做调试</br>
